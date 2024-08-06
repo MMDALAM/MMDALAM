@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 ## 🌎 Find me
 
   [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:mmmohammadalam@gmail.com)
-  [![icons](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mmd_alam1999)
+<a href="https://instagram.com/mmd_alam1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narjes.developer" height="30" width="40" /></a>
+<a href="https://t.me/@mmdalam1999" target="blank"><img align="center" src="https://github.com/user-attachments/assets/358b74e7-074e-464e-a611-bf74f1b73ce3" alt="narjes.developer" height="30" width="40" /></a>
 
 <br>
 
