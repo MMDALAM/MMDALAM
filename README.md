@@ -36,16 +36,15 @@ Here are some ideas to get you started:
 <br>
 
 ## 🌎 Find me
-
-  [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:mmmohammadalam@gmail.com)
-<a href="https://instagram.com/mmd_alam1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /></a>
-<a href="https://t.me/@mmdalam1999"><img align="center" src="https://github.com/user-attachments/assets/358b74e7-074e-464e-a611-bf74f1b73ce3" height="30" width="30" /></a>
+  <a href="mailto:mmmohammadalam@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/946a50ec-3987-48cc-b8dc-ba2282a9126a" height="30" width="30" /></a>
+  <a href="https://instagram.com/mmd_alam1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /></a>
+  <a href="https://t.me/@mmdalam1999"><img align="center" src="https://github.com/user-attachments/assets/358b74e7-074e-464e-a611-bf74f1b73ce3" height="30" width="30" /></a>
 
 <br>
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,RabbitMQ,npm,Cloudflare,Docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,rabbitMQ,npm,cloudflare,docker," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,redis" /><br>
 </div>
