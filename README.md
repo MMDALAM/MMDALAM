@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 <br>
 ## 🌎 Find me
 
-  [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:arta.shahin.02@gmail.com)
-  [![icons-insta]([https://logowik.com/instagram-new-2022-line-logo-vector-svg-pdf-ai-eps-cdr-free-download-19452.html)](mailto:arta.shahin.02@gmail.com)
-
-[url=https://logowik.com/instagram-new-2022-line-logo-vector-svg-pdf-ai-eps-cdr-free-download-19452.html][img]https://logowik.com/content/uploads/images/5501-instagram-new-2022-line.webp[/img][/url]
-  
-<a href=""></a>
+  [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:mmmohammadalam@gmail.com)
+  [![image](https://github.com/user-attachments/assets/352983df-c730-45e6-8d32-22338820290e)](https://instagram.com/mmd_alam1999)
+  [![image](https://github.com/user-attachments/assets/8663b18c-9138-4918-91e9-1e887c89543a)](https://t.me/@mmdalam1999))
