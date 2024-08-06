@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🛠️ Languages and Tools I Use
+## 🛠️ Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,,express,,mongodb,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql" /><br>
 </div>
