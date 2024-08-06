@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm MMDALAM 👋</h1>
 
-I'm web Developer and software engineer from tehran
+I'm web Developer and software engineer
 
 ```javascript
 module.exports = new class mmdalam  {
