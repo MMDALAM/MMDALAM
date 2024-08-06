@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## 🌎 Find me
 
   [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:mmmohammadalam@gmail.com)
+  [![icons](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mmd_alam1999)
 
 <br>
 
