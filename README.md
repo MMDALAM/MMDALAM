@@ -1,21 +1,9 @@
-## Hi there 👋
-
-**MMDALAM/MMDALAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi I'am MMDALAM 👋
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
 <br>
 
-## Expertise
+## ⚡ Expertise
 <p>
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
   <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
@@ -29,7 +17,17 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F87822?style=flat-square&logo=mysql&logoColor=336791" />
   <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-B02727?style=flat-square&logo=redis&logoColor=white" />
+  ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </p>
 
 
 <br>
+
+## ⚡ Platforms
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=Android&logoColor=white)
+  
