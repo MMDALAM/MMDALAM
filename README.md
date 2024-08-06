@@ -31,5 +31,14 @@ Here are some ideas to get you started:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=Android&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&color=339933&logoColor=white)
+
+<br>
+## 🌎 Find me
+
+  [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:arta.shahin.02@gmail.com)
+  [![icons-insta]([https://logowik.com/instagram-new-2022-line-logo-vector-svg-pdf-ai-eps-cdr-free-download-19452.html)](mailto:arta.shahin.02@gmail.com)
+
+[url=https://logowik.com/instagram-new-2022-line-logo-vector-svg-pdf-ai-eps-cdr-free-download-19452.html][img]https://logowik.com/content/uploads/images/5501-instagram-new-2022-line.webp[/img][/url]
   
+<a href=""></a>
