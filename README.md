@@ -7,8 +7,14 @@ Here are some ideas to get you started:
 <p>
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
   <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  
   <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
+  
+  ![Nodejs](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+  ![]()
+  ![]()
+  ![]()
+  ![]()
   
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -18,6 +24,7 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F87822?style=flat-square&logo=mysql&logoColor=336791" />
   <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-B02727?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
