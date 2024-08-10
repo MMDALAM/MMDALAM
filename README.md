@@ -15,7 +15,7 @@ AboutMe(req, res) {
         currentFocus: "Node.js Web Development",
       },
     });
-}
+  }
 
   getBackEnd() {
     return {
