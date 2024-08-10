@@ -6,32 +6,31 @@ I'm web Developer and software engineer
 module.exports = new class mmdalam  {
 
 AboutMe(req, res) {
-  const mmdalam = {
-    Expertise: "I'm Node.js Developer",
-    Language: ["javaScript"], // Node.js,
-    BackEnd: this.BackEnd(),
-    FrontEnd: this.FrontEnd(),
-    currentFocus: "Node.js Web Development",
-  };
-    return res.status(200).json({ mmdalam });
-  }
+    return res.status(200).json({
+      mmdalam: {
+        Expertise: "Node.js Developer",
+        Language: ["JavaScript"],
+        BackEnd: this.getBackEnd(),
+        FrontEnd: this.getFrontEnd(),
+        currentFocus: "Node.js Web Development",
+      },
+    });
+}
 
-  BackEnd() {
-    const backEnd = {
+  getBackEnd() {
+    return {
       Frameworks: ["Express.js"],
       MicroServiceTools: ["RabbitMQ"],
       DataBases: ["MongoDB", "MySQL", "Redis"],
       Architectures: ["MVC", "Clean Code", "SOLID"],
-      API: ["postman", "swagger"],
+      API: ["Postman", "Swagger"],
     };
-    return backEnd;
   }
 
-  FrontEnd() {
-    const frontEnd = {
-      web: ["Html", "CSS", "Bootstrap"],
+  getFrontEnd() {
+    return {
+      web: ["HTML", "CSS", "Bootstrap"],
     };
-    return frontEnd;
   }
 }
 ```
