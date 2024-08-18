@@ -40,7 +40,7 @@ AboutMe(req, res) {
 ## ⚡ Expertise
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,npm,cloudflare,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,rabbitmq,mongodb,mysql,redis" /><br>
 </div>
 
 
