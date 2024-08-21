@@ -9,7 +9,7 @@ AboutMe(req, res) {
     return res.status(200).json({
       mmdalam: {
         Expertise: "Node.js Developer",
-        Language: ["JavaScript"],
+        Language: "JavaScript",
         BackEnd: this.getBackEnd(),
         FrontEnd: this.getFrontEnd(),
         currentFocus: "Node.js Web Development",
