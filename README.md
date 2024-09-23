@@ -27,12 +27,6 @@ AboutMe(req, res) {
     };
   }
 
-  getFrontEnd() {
-    return {
-      web: ["HTML", "CSS", "Bootstrap"],
-    };
-  }
-}
 ```
 
 <br>
