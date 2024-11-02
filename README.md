@@ -44,7 +44,6 @@ AboutMe(req, res) {
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,rabbitmq,mongodb,mysql,redis" /><br>
 </div>
 
-
 <br>
 
 ## ⚡ Platforms
