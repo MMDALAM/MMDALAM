@@ -19,10 +19,10 @@ AboutMe(req, res) {
 
   getBackEnd() {
     return {
-      Frameworks: ["Express.js"],
+      Frameworks: ["Express.js" , "Nest.js"],
       MicroServiceTools: ["RabbitMQ"],
       RealTimeTools: ["socket.io"],
-      DataBases: ["MongoDB", "MySQL", "Redis"],
+      DataBases: ["MongoDB", "Redis"],
       Architectures: ["MVC", "Clean Code", "SOLID"],
       API: ["Postman", "Swagger"],
     };
@@ -30,7 +30,7 @@ AboutMe(req, res) {
 
   getFrontEnd() {
     return {
-      web: ["HTML", "CSS", "Bootstrap"],
+      web: ["HTML", "CSS", "Bootstrap" , "Nuxt.js"],
     };
   }
 
